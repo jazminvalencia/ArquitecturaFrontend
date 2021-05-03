@@ -21,7 +21,20 @@ se significaba volver a perforar las tarjetas.
 
 1960/ Lenguaje maquina:
 las primeras interpretaciones de bits. 
-(Primeros lenguajes de proramacion: java,C, C++)
 
 1970/ Lenguaje de programacion:
 permitieron desarollar operaciones mas complejas y automatizadas.
+(Primeros lenguajes de proramacion: java,C, C++)
+
+---------------------------------------------------------------------------
+Inputs:
+son los que pasan informacion a la maquina 
+Webcam, microphone, mouse, graphics tablet, keyboard, scanner
+
+Proceso:
+MicroProcessor
+
+Outputs:
+son los aparatos que regresan la infromacion del resultado de lo que paso
+en el procesador
+printer, Projector, plotter, speaker, monitor
