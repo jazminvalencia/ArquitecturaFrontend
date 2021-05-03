@@ -12,4 +12,6 @@ CSSOM(css object model):
 es muy similar al dom pero este se encarga de tratar todos los estilos y tambien genera un arbol
 pero con el css.
 
+Render tree:
+es generar un arbol general que tenga los dos objetos de CSSOM Y DOM, para dormar un producto
 
