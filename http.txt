@@ -32,6 +32,7 @@ Html: fue la tecnologia que se genero para poder introducir texto a las paginas 
 Css: fue la tecnologia para agregar estilos, colores, dimenciones al texto y a Html
 JavaScrip: es el lenguaje de programacion que nace para poder hacer la web de algo estatico
 a algo dinamico para poder interactuar con la pagina.
+WebAssembly:es un nuevo estandar para poder hacer productos web (es un compilador)
 
 
 
