@@ -13,3 +13,11 @@ Transport       Tcp/ udp
 Network         ip, routers
 data link       ethernet, switches
 physical        cables
+
+ISP(internet service provider)
+son empresas proveedores de internet como telmex, telcel, unefon, etc, promueben la infraestructura necesaria 
+para poder conectarnos a internet.
+
+
+
+
