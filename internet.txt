@@ -38,4 +38,8 @@ HTTP: permite la recuperacuon de recursos vinculados de toda la web
 W3C (world wide web consortium)
 es el encargado de poder crecer estas tecnologias para poder tener las nuevas tecnologias,las remodelaciones de las tecnologias, etc.
 
+Web browser:
+Mosaic: fue el primr navegador que incluyo graficos.
+Netscape : evoluciono el tema de que mas podemos hacer y gracias a ellos tenemos java scrip
+chome: sacaron in ingi que entendia Java Scrip haciendo que sea mas veloz que los otros
 
