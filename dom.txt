@@ -23,3 +23,8 @@ Paint:
 es la ultima parte para ver el producto terminado, y es poner directamente toda la informacion seria los texto,
 imagenes, post, etc.
 
+JavaScrip engine:
+por buenas practicas el JavaScrip tiene que ir hasta el ultimo de nuestro Html
+JavaScrip engine toma todo nuestro JavaScrip lo transforma en codigo maquina para que el navegador sepa
+que queremos que haga.
+
