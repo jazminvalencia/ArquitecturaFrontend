@@ -1,0 +1,8 @@
+el internet viene de los cables que tenemos en la casa, en la ciudad que hacen que ponamos 
+tener conexion y la mayoria de los cables estan por el mar
+
+Internet backbone:
+se le conoce como internet pero es la infraestructura que se tiene.
+
+el internet nace de arpanet fue un proyecto de investigacion academico 
+
