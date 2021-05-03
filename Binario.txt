@@ -38,3 +38,6 @@ Ejercicio:
 0 1 1 0 0 0 0 1 = 97
 0 0 1 0 0 0 0 1 = 33
 
+UNICODE:
+es un codigo que tiene todos los alfabetos y todos los caracteres especiales 
+la diferencia entre ASCII y UNICODE es que unicode cada uno de estos caracteres especiales puede formarse por 1 hasta 6 bytes
