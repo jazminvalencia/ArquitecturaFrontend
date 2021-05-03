@@ -1,0 +1,26 @@
+Historia:
+Como empezo todo?
+200 AC/ Abaco: 
+un sistema para llevar las cuentas es una herramienta que nos ayudaba a 
+llevar cuentas con un sistema decimal, eran comunmente utilizados por comerciantes.
+
+1600/ Calculadora mecanica:
+Instrumento mecanico construidos con engranes que permitian procesar datos mas complejios 
+que simples cuentas.
+
+1700/ Calculadoras humanas:
+los datos y procesamientos de datos los realizaban humanos
+
+1940/ Primeras computadoras:
+Primeros dispositivos capaces de procesar datos en tiempo real, Eran operadas por mujeres en 
+durante la guerra.
+
+1960/ tarjetas perforadas:
+permitian realizar los primeros programas realizando perforaciones espesificas. Cualquier error 
+se significaba volver a perforar las tarjetas.
+
+1960/ Lenguaje maquina:
+las primeras interpretaciones de bits. 
+
+1970/ Lenguaje de programacion:
+permitieron desarollar operaciones mas complejas y automatizadas.
