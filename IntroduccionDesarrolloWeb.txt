@@ -21,6 +21,7 @@ se significaba volver a perforar las tarjetas.
 
 1960/ Lenguaje maquina:
 las primeras interpretaciones de bits. 
+(Primeros lenguajes de proramacion: java,C, C++)
 
 1970/ Lenguaje de programacion:
 permitieron desarollar operaciones mas complejas y automatizadas.
