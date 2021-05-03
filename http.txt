@@ -1,0 +1,23 @@
+HTTP/https
+son reglas de comnunicacion
+
+http: hypertext tranfer protocol
+es un protocolo de transferencia y se puede ver como si amndarmos una carta, 
+tu generas una carta que tiene texto y cierta informacion, tienes que poner la 
+direccion exacta a donde tiene que ir. 
+para este protocolo existe 
+
+Http Request (que seria una peticion ) y http response (la respuesta por parte del server)
+
+http Methods: 
+Get: solicita datos
+Post: envia datos
+put: crea o reemplaza datos
+delete: borra datos espesificos 
+
+Https: hyoertext transfer protocol Secure
+es la parte de seguridad y es la forma que se tiene que seguir desde hace unos años por que 
+se tiene informacion sensible 
+funciona por reques y la informacion que envies a un servidor va cifrada.
+
+
