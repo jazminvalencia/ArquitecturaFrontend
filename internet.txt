@@ -18,6 +18,12 @@ ISP(internet service provider)
 son empresas proveedores de internet como telmex, telcel, unefon, etc, promueben la infraestructura necesaria 
 para poder conectarnos a internet.
 
+DNS.Domain name System. son los servicios de traduccion de un nombre a un area IP
+Ejemplo cada vez que accedemos a www.platzi.com el servidor de DNS nos dorige a 104.17.175.85
+El DNS solo es para las personas para hacernos mas facil aprender la direccion a la que queremos entrar
+
+IP es un como el id de una computadora que nos sirve poder conectarnos con ella
+
 
 
 
