@@ -15,3 +15,6 @@ pero con el css.
 Render tree:
 es generar un arbol general que tenga los dos objetos de CSSOM Y DOM, para dormar un producto
 
+Layaout:
+ya con el render tree el navegador ya puede formar la maqueta(layaout), empieza a generar los espacios de 
+cada contenedor
