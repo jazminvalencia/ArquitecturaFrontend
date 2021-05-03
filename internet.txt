@@ -24,6 +24,13 @@ El DNS solo es para las personas para hacernos mas facil aprender la direccion a
 
 IP es un como el id de una computadora que nos sirve poder conectarnos con ella
 
+Historia de la web:
+Primer Desarillados WEb fue: Tim berners-lee
 
+fue el creador de WWW(word wide web browser) que por medio de inpervinculos te llevara a otra pagina que estuvieras buscando
+desarrollo su invento en una computadora Next 
 
-
+Tim habia escrito las tres tecnologias fundamentales que siguen siendo base de la web actual.
+HTM: lenguaje de marcado para la web
+URL: direccion que es unica que se utiliza para identificar cada recurso en la web
+HTTP: permite la recuperacuon de recursos vinculados de toda la web
