@@ -22,3 +22,19 @@ los Transistores hacen que las computadoras puedan entender los Bit & Bytes ya q
 true "1" o false "0"
 
 Como con Bit & Bytes. puedo repreentar letras, numeros, caracteres especiales, ect?
+codigo ASCII
+es una representacion de numeros que le asignan a cada letra o caracter por ejemplo 
+A = 65, b = 66, c = 67....
+
+Ejercicio:
+161 72 111 108 97 33
+¡  H  o    l   a  !
+
+128 64 32 16 8 4 2 1
+1 0 1 0 0 0 0 1 = 161
+0 1 0 0 1 0 0 0 = 72
+0 1 1 0 1 1 1 1 = 111
+0 1 1 0 1 1 0 0 = 108
+0 1 1 0 0 0 0 1 = 97
+0 0 1 0 0 0 0 1 = 33
+
