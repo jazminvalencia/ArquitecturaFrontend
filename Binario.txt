@@ -12,3 +12,13 @@ siguiente modo 128,64,32,16,8, 4,2, 1 Ejemplos de representacion:
 1 1 1 1 1 1 1 1 = 255
 0 0 1 0 0 1 1 0 = 70
 
+Bit & Bytes.
+los bit y bytes son diferentes hablemos de este tomemos de ejemplo este:
+"0 0 0 0 0 0 0 1"
+los bits pueden ser tanto un 0 como un 1 pero solo uno eso quiere decir que un bit es "1" o "0"
+los bytes es el todo el arreglo osea "0 0 0 0 0 0 0 1"
+
+los Transistores hacen que las computadoras puedan entender los Bit & Bytes ya que fincionan con
+true "1" o false "0"
+
+Como con Bit & Bytes. puedo repreentar letras, numeros, caracteres especiales, ect?
