@@ -6,3 +6,10 @@ se le conoce como internet pero es la infraestructura que se tiene.
 
 el internet nace de arpanet fue un proyecto de investigacion academico 
 
+Protocolos:
+Tcp/ip(transmission control protocol/ internet protocol)
+application     Http/ftp
+Transport       Tcp/ udp
+Network         ip, routers
+data link       ethernet, switches
+physical        cables
