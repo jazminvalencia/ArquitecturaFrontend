@@ -1,0 +1,14 @@
+sistema Binario 
+sistema de conteo que va del 0 al 1 
+El codigo maquina utiliza el sistema binaro para interpretar 
+
+el sistema binario su base en en dos sobre dos haciendo que quede del 
+siguiente modo 128,64,32,16,8, 4,2, 1 Ejemplos de representacion:
+128 64 32 16 8 4 2 1
+0 0 0 0 0 0 0 1 = 1
+0 0 0 0 0 0 1 0 = 2
+0 0 0 0 0 0 1 1 = 3
+0 0 0 1 0 1 0 0 = 20
+1 1 1 1 1 1 1 1 = 255
+0 0 1 0 0 1 1 0 = 70
+
