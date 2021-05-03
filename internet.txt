@@ -34,3 +34,8 @@ Tim habia escrito las tres tecnologias fundamentales que siguen siendo base de l
 HTM: lenguaje de marcado para la web
 URL: direccion que es unica que se utiliza para identificar cada recurso en la web
 HTTP: permite la recuperacuon de recursos vinculados de toda la web
+
+W3C (world wide web consortium)
+es el encargado de poder crecer estas tecnologias para poder tener las nuevas tecnologias,las remodelaciones de las tecnologias, etc.
+
+
