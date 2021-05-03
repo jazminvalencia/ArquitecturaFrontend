@@ -1,0 +1,10 @@
+como funciona el navegador?
+http respons 
+critical rendering path: son todo los pasos que genera el servidor con todos los archivos 
+y asets para poder renderizar el proyecto
+
+Dom (document object model):
+es un arbol que se genera con todas las etiquetas o nodos que serian dotas las palabras todos los parafos 
+tada la informacion que viene en el proyecto.
+cuando el arbol exista ya puedo empezar a generar interaccion con JavaScrip.
+
