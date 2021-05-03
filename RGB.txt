@@ -1,0 +1,15 @@
+Como funcionan los colores?
+
+el RGB son 3 colores que son Rojo, verde y azul y viene de 0 a 255, cada uno de estos colores 
+vienen tonalidades de 0 a 255 y dependiendo de cada tonalidad de estos 3 colores es el color 
+que se va a obtener en el pixel 
+ejemplo 
+Blanco = (255,255,255)
+Black = (0,0,0)
+Plum Purple = (178, 80 228)
+
+128 64 32 16 8 4 2 1
+1 0 1 1 0 0 1 0 = 178
+0 1 0 1 0 0 0 0 = 80
+1 1 1 0 0 1 0 0 = 228
+
