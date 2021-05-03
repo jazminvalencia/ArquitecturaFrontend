@@ -8,3 +8,8 @@ es un arbol que se genera con todas las etiquetas o nodos que serian dotas las p
 tada la informacion que viene en el proyecto.
 cuando el arbol exista ya puedo empezar a generar interaccion con JavaScrip.
 
+CSSOM(css object model):
+es muy similar al dom pero este se encarga de tratar todos los estilos y tambien genera un arbol
+pero con el css.
+
+
