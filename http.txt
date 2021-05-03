@@ -34,5 +34,9 @@ JavaScrip: es el lenguaje de programacion que nace para poder hacer la web de al
 a algo dinamico para poder interactuar con la pagina.
 WebAssembly:es un nuevo estandar para poder hacer productos web (es un compilador)
 
-
-
+Web Moderna.
+internet of things: se genero todo un ecosistema de productos que se pueden llamar 
+productos inteligentes.
+son dispositivos conectados a internet que genera muchisimos datos y nos ayudan a crear 
+machine learning & artidicial intelligence 
+5G: forma en la que vamos a tener muchisimo mas datos y mas velocidad. 
