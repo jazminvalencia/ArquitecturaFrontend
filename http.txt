@@ -20,4 +20,18 @@ es la parte de seguridad y es la forma que se tiene que seguir desde hace unos a
 se tiene informacion sensible 
 funciona por reques y la informacion que envies a un servidor va cifrada.
 
+Estandares web:
+la w3c son los creadores de los estandares web y estos surgieron para poner orden en los navegadores y 
+para saber cuales seran las tecnologias que se utilizaran para la creacion de productos web haciendo que 
+los navegadores implementaran la tecnologia que w3c dice. 
+que existen actualmente no todos los navegadores los implementan ni los usan de el mismo estandar otros primero 
+que otros
+
+Cuales fueron esos estandares:
+Html: fue la tecnologia que se genero para poder introducir texto a las paginas web
+Css: fue la tecnologia para agregar estilos, colores, dimenciones al texto y a Html
+JavaScrip: es el lenguaje de programacion que nace para poder hacer la web de algo estatico
+a algo dinamico para poder interactuar con la pagina.
+
+
 
