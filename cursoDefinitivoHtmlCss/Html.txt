@@ -1,0 +1,36 @@
+Html (hypertext markup language):
+
+Anatomia de una pagina web.
+Container 
+    header 
+        logo
+        nav
+    header
+    main content
+    sidebar
+    footer
+container
+
+index y su estructura basica
+<!DOCTYPE html> le dice al navegador que es html 5 lo que esta en el proyecto
+<html lang="es"> lang le dice que lenguaje tendra el proyecto
+<head> va todo lo que es importante para el navegador para poder cargar el proyecto 
+de la forma en la que nosotros lo construimos.
+<body> va el cuerpo del proyecto 
+<meta> le dan la informacion al navegador para que sepa como tratar nuestro proyecto
+
+<meta charset="UTF-8">  nos ayuda para que el navegador pueda entender caracteres especiales
+ <meta name="description" content="esta pagina te mostrara fotos de gatos"> name="description" nos ayuda
+a que cuando en el navegador la gente busque cierta informacion
+en internet salga nuestra pagina, en el content va lo que tratara la pagina para cuando busquemos en internet 
+de bajo del link de nuestro sitio aparezca la descripsion
+
+<meta name="robots" content="index-follow"> para decirle a todos los robots de los buscadores que puedan ayudar a colocar a nuestra pagina 
+con respecto a la busqueda que se hace
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> para hacer el proyecto 
+responsivo.
+
+
+
+
