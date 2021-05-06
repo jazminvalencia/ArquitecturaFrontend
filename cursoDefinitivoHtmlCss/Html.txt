@@ -31,6 +31,10 @@ con respecto a la busqueda que se hace
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> para hacer el proyecto 
 responsivo.
 
-
-
-
+Anatomia de una etiqueta 
+name attribute  = a href
+attribute value = "http://dabrook.org"
+opening tag = <a href="http://dabrook.org">
+<a href="http://dabrook.org">Visit DaBrook</a>
+....attribute ................ 
+ -------------------Element--------------------
