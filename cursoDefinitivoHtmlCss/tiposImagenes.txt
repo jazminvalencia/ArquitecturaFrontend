@@ -31,7 +31,7 @@ Optimizacion de imagenes
 Tamaño promedio debe de ser de 70KB
 
 opciones para trabajar las imagenes:
--Mejora el tamaño de tus imagenes : tiny PNG 
--Retira meta datos de tus imagenes: verexif.
+tiny PNG: comprime el tamaño de una imagen, para hacerla mas ligera.
+verexif: Elimina los metadatos de una imagen para reducir su tamaño
 
 
