@@ -42,3 +42,11 @@ es la fucion de todas las cosas del front y todas las cosas de back, es el que e
 como funciona un producto web de principio a fin.
 
 Pagina estatica VS Pagina dinamica
+
+Pagina estatica/landing pages u paginas informativas:
+todas las paginas web que van a tener pura informacion para consumir, texto u imagenes
+y esta informacion no va a acambiar.
+
+Pagina dinamica/web apps:
+son paginas conectadas a bd para poder generar interaccion con la pagina 
+
