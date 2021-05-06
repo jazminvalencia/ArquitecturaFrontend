@@ -1,0 +1,29 @@
+
+Tipos de imagenes:
+
+Lossy vs Lossless(Son perdida / sin perdida)
+existen dos tipos de imagenes, sin perdida o con perdidsa, 
+y esto depende de como el formato maneja las imagenes
+
+Lossless(sin perdida)
+capturan todos los datos de su archivo original. No se pierde nada del archivo original,
+el archivo aun puede estar comprimido pero todos los formatos sin perdida podran reconstruir 
+su imagen a su estado original.
+
+Formatos de imagenes Lossless:
+Gif(graphics interchange fromat)
+png 8 - (portable network graphics) uso de colores de 256
+png 24 - (portable network graphics) uso de colores ilimitado
+
+
+Lossy 
+podria reducir la calidad de colores en su imagen o analizar la imagen en busca de datos 
+innecesarios.Esto reducira el tamaño del archivo, aun que puede reducri la calidad de la 
+imagen. por lo general los archivos con perdida son mucho mas pequeños que los archivos 
+sin perdida, por lo cual son ideales para usar en linea donde el tamaño del archivo y 
+la velocidad de descarga son vitales.
+
+Formatos de imagenes Lossy:
+jpg/jpeg (photographic experts group) millones de colores
+svg - vector (scalable vector graphics) colores ilimitados
+

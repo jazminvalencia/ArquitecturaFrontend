@@ -1,4 +1,4 @@
-Html (hypertext markup language):
+Html (hyper text markup language):
 
 Anatomia de una pagina web.
 Container 
@@ -38,3 +38,4 @@ opening tag = <a href="http://dabrook.org">
 <a href="http://dabrook.org">Visit DaBrook</a>
 ....attribute ................ 
  -------------------Element--------------------
+
