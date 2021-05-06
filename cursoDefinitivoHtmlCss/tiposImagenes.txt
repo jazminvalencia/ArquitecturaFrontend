@@ -27,3 +27,11 @@ Formatos de imagenes Lossy:
 jpg/jpeg (photographic experts group) millones de colores
 svg - vector (scalable vector graphics) colores ilimitados
 
+Optimizacion de imagenes
+Tamaño promedio debe de ser de 70KB
+
+opciones para trabajar las imagenes:
+-Mejora el tamaño de tus imagenes : tiny PNG 
+-Retira meta datos de tus imagenes: verexif.
+
+
