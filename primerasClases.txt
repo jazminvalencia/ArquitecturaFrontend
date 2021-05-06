@@ -1,0 +1,44 @@
+Estandares  o lenguajes que entiende un navegador 
+Html y Css
+
+Web Developer Fundamentals (cosas que debes de saber en el mundo del desarollo web)
+Cilente = puede ser el navegador, el usuario
+
+Front-end:
+que maneja las cosas del lado del cliente
+
+Estandares que debe de entender un Front-end:
+html, css, js
+
+Franworks de css:
+bootstrap, materializa, 
+
+Franworks y librerias de js
+react, Angular y Vue
+
+Preprocesadores de css
+less, stylus y sass
+
+Compiladores/empaquetador de js
+babel, webpack
+
+Back-end:
+maneja todo del lado del servidor, la logica al momento que el navegador le pida cosas al servidor
+
+Lenguajes de programacion:
+node js, phyton, php, go, rubi, java o .net
+
+Franworks:
+django, laravel, rails, express, spring
+
+infraesrtuctura:
+google could, digitalOcean, aws, heroku.
+
+Base de datos:
+mongo DB, mysql, postgreSQL
+
+Full Stack:
+es la fucion de todas las cosas del front y todas las cosas de back, es el que entiende bien 
+como funciona un producto web de principio a fin.
+
+Pagina estatica VS Pagina dinamica
