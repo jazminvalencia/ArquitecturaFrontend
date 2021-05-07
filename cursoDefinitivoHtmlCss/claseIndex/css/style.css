@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: #13a4a4;
+  margin: 0;
+  padding: 0;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  color: blue;
+  font-size: larger;
+}
+.sub-title {
+  display: flex;
+  justify-content: center;
+}
+.container-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

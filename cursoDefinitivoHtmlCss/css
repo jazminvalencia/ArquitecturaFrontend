@@ -1,0 +1,36 @@
+CSS:
+cascading style sheets (documento que aplica todos los estilos de forma de cascada)
+
+anatomia de CSS
+Regla 
+p {
+    color: red;
+}
+
+Propiedad: que es el estilo que se va a aplicar 
+valor Propiedad : que esperas que se vaya aplicar 
+Selector: que elemento quieres modificar
+dentro de los corchetes se hace la declaracion de estilos
+que se compone de una propiedad y el valor de la propiedad.
+
+BEM: para nombrar clases en CSS
+
+Padding: espacio interno
+margin: espacio externo
+
+Pseudo clases y 
+las Pseudo clases se llaman al momento de poner ":" 
+definen el estilo de un estado especial de un elemento
+
+ejemplo
+:hover --> cuando el mous este arriba de la etiqueta 
+:active --> cuando manipulas algo
+
+Pseudo elementos
+Las Pseudo elementos se llaman "::" 
+definen el estilo de una parte esécifica de un elemento
+
+ejemplo: 
+after --> para agregar algo cuando termina el elemento y tiene que llevar la propiedad 
+"content: "aqui va lo que quieres""
+before -- > 
