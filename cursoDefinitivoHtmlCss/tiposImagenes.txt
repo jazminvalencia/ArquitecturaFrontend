@@ -34,4 +34,5 @@ opciones para trabajar las imagenes:
 tiny PNG: comprime el tamaño de una imagen, para hacerla mas ligera.
 verexif: Elimina los metadatos de una imagen para reducir su tamaño
 
+etiqueta figcaption = para poner texto debajo de una etiqueta imag
 
