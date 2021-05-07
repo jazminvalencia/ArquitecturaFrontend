@@ -1,0 +1,4 @@
+Etiquetas
+form: es para indicarle al navegador que eso es un formulario
+label: es un contenedor para los inputs
+input type="text" : 
