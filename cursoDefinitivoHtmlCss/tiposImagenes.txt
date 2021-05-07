@@ -34,5 +34,20 @@ opciones para trabajar las imagenes:
 tiny PNG: comprime el tamaño de una imagen, para hacerla mas ligera.
 verexif: Elimina los metadatos de una imagen para reducir su tamaño
 
-etiqueta figcaption = para poner texto debajo de una etiqueta imag
+Etiquetas
+figcaption = para poner texto debajo de una etiqueta img
+
+ <video src="./video.m4v#t=10,60" controls preload="auto"></video>
+Video = pone un video pero si no le pones atributos no salen los controles
+Controls = es un atrubito para que se pongan los controles en el video 
+Preload="auto" = ayuda que el navegador empiece a descargar 
+el video cuando vea que existe una tarjeta de video
+#t=10,60 = es para darle un enfoque en los tiempos que quisieras que la gente
+empezara a ver el video el primer numero es para cuando inicia y el segundo cuando se termina
+
+esta sintaxis es para poner multiples videos de diferentes tipos
+<video controls preload="auto">
+    <source src="./video.m4v#t=10,60"/>
+    <source src="./video.mp4#t=10,60"/>
+</video>
 
